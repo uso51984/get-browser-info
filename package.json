@@ -1,11 +1,11 @@
 {
   "name": "get-browser-info",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/uso51984/html-element-print"
+    "url": ""
   },
   "keywords": [
   ],
