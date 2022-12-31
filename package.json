@@ -25,6 +25,6 @@
   "author": "edmund chen",
   "license": "MIT",
   "devDependencies": {
-    "bee-build-tools": "0.0.26"
+    "bee-build-tools": "1.0.0"
   }
 }
